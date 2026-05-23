@@ -1,6 +1,6 @@
-# Chat App
+# Gemini Chat App
 
-A real-time 1:1 chat app with a built-in Gemini AI assistant. Sign in with Google, message people live over WebSockets, and ping the AI whenever you need it.
+A real-time 1:1 chat app with a built-in **Gemini AI assistant**. Sign in with Google, message people live over WebSockets, and ping the AI whenever you need it.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
@@ -39,8 +39,8 @@ A real-time 1:1 chat app with a built-in Gemini AI assistant. Sign in with Googl
 ## Running it locally
 
 ```bash
-git clone https://github.com/taiayman/chat_app.git
-cd chat_app
+git clone https://github.com/taiayman/gemini-chat-app.git
+cd gemini-chat-app
 npm install
 ```
 
